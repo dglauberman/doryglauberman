@@ -1,0 +1,26 @@
+{
+  "name": "DoryGlauberman",
+  "version": "0.0.0",
+  "description": "Personal web page for Dory Glauberman",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dglauberman/doryglauberman.git"
+  },
+  "author": "Dory Glauberman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dglauberman/doryglauberman/issues"
+  },
+  "homepage": "https://github.com/dglauberman/doryglauberman",
+  "dependencies": {
+    "express": "^4.8.4",
+    "logfmt": "^1.1.2"
+  },
+  "engines": {
+    "node": "0.10.x"
+  }
+}
