@@ -841,12 +841,12 @@ ul.social-buttons li a:active {
 
 ::-moz-selection {
     text-shadow: none;
-    background: #897ECE;
+    background: #DAD3EC;
 }
 
 ::selection {
     text-shadow: none;
-    background: #897ECE;
+    background: #DAD3EC;
 }
 
 img::selection {
@@ -858,5 +858,18 @@ img::-moz-selection {
 }
 
 body {
-    webkit-tap-highlight-color: #897ECE;
+    webkit-tap-highlight-color: #DAD3EC;
+}
+
+/* custom */
+.divider {
+    width: 40px;
+    height: 1px;
+    background-color: #777;
+    margin: 5px auto;
+}
+
+.class-list {
+    list-style-type: none;
+    padding: 0;
 }
