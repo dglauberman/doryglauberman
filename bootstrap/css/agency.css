@@ -873,3 +873,12 @@ body {
     list-style-type: none;
     padding: 0;
 }
+
+.company {
+    font-size: 14px;
+    font-weight: 100;
+}
+
+.white-bg {
+    background-color: #FFF;
+}
